@@ -50,7 +50,7 @@ def main() -> int:
         "02 案例": len(list(cases.glob("CASE-*.md"))),
         "04 基础数据/统计": len(list((ROOT / "04-数据类型与基础统计图表").glob("[0-9][0-9]-*.md"))),
     }
-    for label,expected in (("01 数据逻辑",5),("02 表现类型",16),("02 案例",29),("04 基础数据/统计",13)):
+    for label,expected in (("01 数据逻辑",5),("02 表现类型",17),("02 案例",31),("04 基础数据/统计",13)):
         if counts[label] < expected:
             errors.append(f"{label}: 数量不足；预期至少 {expected}，实际 {counts[label]}")
     print(f"Markdown 文件：{len(md_files)}；内部链接检查：{checks}；分类数量：{counts}")
