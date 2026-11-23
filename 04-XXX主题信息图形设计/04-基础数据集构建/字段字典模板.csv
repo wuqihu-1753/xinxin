@@ -1,0 +1,11 @@
+field_name,semantic_type,storage_type,unit,definition,allowed_values_or_range,missing_value_rule,source_id,transformation,example_status
+record_id,名义型,string,无,每条记录唯一ID,不重复且非空,不可缺失,待填写,原始,模板示例
+entity_name,名义型,string,无,实体或地点名称,非空文本,可定义缺失,待填写,原始,模板示例
+longitude,坐标型,number,度,经度WGS84_如使用其他坐标系需标注,范围按坐标系定义,空值表示未采集,待填写,原始,模板示例
+latitude,坐标型,number,度,纬度WGS84_如使用其他坐标系需标注,范围按坐标系定义,空值表示未采集,待填写,原始,模板示例
+metric_value,量化型,number,依metric_unit,待选题确定的单个指标,待定义,缺失与0分开,待填写,原始或派生,模板示例
+metric_unit,名义型,string,无,量化指标的单位,待定义,与值同时核查,待填写,标注,模板示例
+year,时间型,integer,年,统计记录年份,待定义,可缺失需记录,待填写,原始,模板示例
+image_uri,图像型,string,无,单张图片的本地相对路径或URL,1格只能一张,可空,待填写,元数据,模板示例
+text_note,文本型,string,无,一条文本说明或文献摘录,按用途定义,可空,待填写,原始,模板示例
+source_id,名义型,string,无,对应03阶段来源台账编号,应能匹配SRC编号,不可缺失,待填写,溯源,模板示例
