@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 340" role="img" aria-label="Gestalt 图形背景 Figure–Ground 原创静态教学示意">
+<title>Gestalt 图形背景 Figure–Ground｜原创教学示意</title>
+<desc>左侧为强调某视觉分组线索的示意，右侧为对照示意。并非真实数据或实验结论，动态规则仅使用静态提示。</desc>
+<rect width="960" height="340" fill="#FFFFFF"/>
+<text x="28" y="40" font-size="26" font-family="Arial, sans-serif" font-weight="700" fill="#18363F">12  图形背景 Figure–Ground</text>
+<rect x="65" y="72" width="391" height="220" rx="14" fill="#F5F8F9" stroke="#D8E3E5" stroke-width="2"/>
+<rect x="504" y="72" width="391" height="220" rx="14" fill="#F5F8F9" stroke="#D8E3E5" stroke-width="2"/>
+<rect x="111" y="116" width="280" height="147" rx="0" fill="#186B77" stroke="#186B77" stroke-width="3"/><path d="M 205 126 Q 235 160 200 185 Q 230 221 220 245 L 275 245 Q 265 221 295 185 Q 260 160 290 126 Z" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><rect x="572" y="116" width="280" height="147" rx="0" fill="#E9F1F1" stroke="#E9F1F1" stroke-width="3"/><path d="M 652 126 Q 682 160 648 185 Q 680 221 670 245 L 725 245 Q 716 221 744 185 Q 712 160 744 126 Z" fill="#186B77" stroke="#186B77" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="260" y="319" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#33515A">强调组织线索</text>
+<text x="700" y="319" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#33515A">弱化或对照</text>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 340" role="img" aria-label="Gestalt 对称 Symmetry 原创静态教学示意">
+<title>Gestalt 对称 Symmetry｜原创教学示意</title>
+<desc>左侧为强调某视觉分组线索的示意，右侧为对照示意。并非真实数据或实验结论，动态规则仅使用静态提示。</desc>
+<rect width="960" height="340" fill="#FFFFFF"/>
+<text x="28" y="40" font-size="26" font-family="Arial, sans-serif" font-weight="700" fill="#18363F">06  对称 Symmetry</text>
+<rect x="65" y="72" width="391" height="220" rx="14" fill="#F5F8F9" stroke="#D8E3E5" stroke-width="2"/>
+<rect x="504" y="72" width="391" height="220" rx="14" fill="#F5F8F9" stroke="#D8E3E5" stroke-width="2"/>
+<line x1="255" y1="95" x2="255" y2="262" stroke="#A0B9BC" stroke-width="2" stroke-linecap="round" stroke-dasharray="6 6"/><circle cx="190" cy="142" r="14" fill="#186B77"/><circle cx="320" cy="142" r="14" fill="#186B77"/><circle cx="190" cy="222" r="14" fill="#E29852"/><circle cx="320" cy="222" r="14" fill="#E29852"/><circle cx="135" cy="142" r="14" fill="#186B77"/><circle cx="375" cy="142" r="14" fill="#186B77"/><circle cx="135" cy="222" r="14" fill="#E29852"/><circle cx="375" cy="222" r="14" fill="#E29852"/><circle cx="568" cy="135" r="13" fill="#186B77"/><circle cx="611" cy="167" r="13" fill="#186B77"/><circle cx="654" cy="199" r="13" fill="#186B77"/><circle cx="697" cy="135" r="13" fill="#186B77"/><circle cx="740" cy="167" r="13" fill="#186B77"/><circle cx="783" cy="199" r="13" fill="#186B77"/><circle cx="826" cy="135" r="13" fill="#186B77"/><circle cx="869" cy="167" r="13" fill="#186B77"/>
+<text x="260" y="319" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#33515A">强调组织线索</text>
+<text x="700" y="319" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#33515A">弱化或对照</text>
+</svg>

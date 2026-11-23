@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 340" role="img" aria-label="Gestalt 共同命运 Common Fate 原创静态教学示意">
+<title>Gestalt 共同命运 Common Fate｜原创教学示意</title>
+<desc>左侧为强调某视觉分组线索的示意，右侧为对照示意。并非真实数据或实验结论，动态规则仅使用静态提示。</desc>
+<rect width="960" height="340" fill="#FFFFFF"/>
+<text x="28" y="40" font-size="26" font-family="Arial, sans-serif" font-weight="700" fill="#18363F">05  共同命运 Common Fate</text>
+<rect x="65" y="72" width="391" height="220" rx="14" fill="#F5F8F9" stroke="#D8E3E5" stroke-width="2"/>
+<rect x="504" y="72" width="391" height="220" rx="14" fill="#F5F8F9" stroke="#D8E3E5" stroke-width="2"/>
+<circle cx="145" cy="137" r="16" fill="#186B77"/><line x1="145" y1="168" x2="165" y2="195" stroke="#186B77" stroke-width="5" stroke-linecap="round" /><circle cx="235" cy="137" r="16" fill="#186B77"/><line x1="235" y1="168" x2="255" y2="195" stroke="#186B77" stroke-width="5" stroke-linecap="round" /><circle cx="325" cy="137" r="16" fill="#186B77"/><line x1="325" y1="168" x2="345" y2="195" stroke="#186B77" stroke-width="5" stroke-linecap="round" /><circle cx="588" cy="137" r="16" fill="#186B77"/><line x1="588" y1="168" x2="640" y2="195" stroke="#E29852" stroke-width="5" stroke-linecap="round" /><circle cx="678" cy="137" r="16" fill="#186B77"/><line x1="678" y1="168" x2="670" y2="195" stroke="#E29852" stroke-width="5" stroke-linecap="round" /><circle cx="768" cy="137" r="16" fill="#186B77"/><line x1="768" y1="168" x2="820" y2="195" stroke="#E29852" stroke-width="5" stroke-linecap="round" />
+<text x="260" y="319" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#33515A">强调组织线索</text>
+<text x="700" y="319" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#33515A">弱化或对照</text>
+</svg>

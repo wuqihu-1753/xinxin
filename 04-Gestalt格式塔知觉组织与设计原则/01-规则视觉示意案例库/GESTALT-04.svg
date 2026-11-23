@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 340" role="img" aria-label="Gestalt 闭合 Closure 原创静态教学示意">
+<title>Gestalt 闭合 Closure｜原创教学示意</title>
+<desc>左侧为强调某视觉分组线索的示意，右侧为对照示意。并非真实数据或实验结论，动态规则仅使用静态提示。</desc>
+<rect width="960" height="340" fill="#FFFFFF"/>
+<text x="28" y="40" font-size="26" font-family="Arial, sans-serif" font-weight="700" fill="#18363F">04  闭合 Closure</text>
+<rect x="65" y="72" width="391" height="220" rx="14" fill="#F5F8F9" stroke="#D8E3E5" stroke-width="2"/>
+<rect x="504" y="72" width="391" height="220" rx="14" fill="#F5F8F9" stroke="#D8E3E5" stroke-width="2"/>
+<path d="M 230 120 A 95 95 0 1 1 164 123" fill="none" stroke="#186B77" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><path d="M 672 120 A 95 95 0 0 1 785 182" fill="none" stroke="#186B77" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><path d="M 735 225 L 775 205" fill="none" stroke="#186B77" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="260" y="319" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#33515A">强调组织线索</text>
+<text x="700" y="319" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#33515A">弱化或对照</text>
+</svg>

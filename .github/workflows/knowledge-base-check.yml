@@ -1,4 +1,4 @@
-name: Knowledge base and design workflow structure check
+name: Knowledge base Gestalt and design workflow structure check
 on:
   push:
   pull_request:
@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Check four domains and the eight workflow stages
+      - name: Check five domains and the eight workflow stages
         run: |
           test -f README.md
           test -f CHANGELOG.md
@@ -17,10 +17,17 @@ jobs:
           test -d '03-信息可视化风格与RAWGraphs源码研究'
           test -f '03-信息可视化风格与RAWGraphs源码研究/00-研究总览与阅读导航.md'
           test -f '03-信息可视化风格与RAWGraphs源码研究/03-32种图表的机制与风格图谱.md'
-          test -d '04-XXX主题信息图形设计'
-          test -f '04-XXX主题信息图形设计/README.md'
-          for s in '01-前期调研' '02-主题内容分析' '03-数据搜集' '04-基础数据集构建' '05-叙事框架搭建' '06-视觉编码' '07-信息轮盘测试' '08-设计实施'; do
-            test -f "04-XXX主题信息图形设计/$s/README.md"
+          test -d '04-Gestalt格式塔知觉组织与设计原则'
+          test -f '04-Gestalt格式塔知觉组织与设计原则/README.md'
+          test -f '04-Gestalt格式塔知觉组织与设计原则/00-Gestalt理论总论与分类体系.md'
+          for n in $(seq -w 1 13); do
+            test "$(find '04-Gestalt格式塔知觉组织与设计原则' -maxdepth 1 -name "$n-*.md" | wc -l)" -eq 1
+            test -f "04-Gestalt格式塔知觉组织与设计原则/01-规则视觉示意案例库/GESTALT-$n.svg"
           done
-          test -f '04-XXX主题信息图形设计/04-基础数据集构建/基础数据表模板.csv'
-          test -f '04-XXX主题信息图形设计/04-基础数据集构建/字段字典模板.csv'
+          test -d '05-XXX主题信息图形设计'
+          test -f '05-XXX主题信息图形设计/README.md'
+          for s in '01-前期调研' '02-主题内容分析' '03-数据搜集' '04-基础数据集构建' '05-叙事框架搭建' '06-视觉编码' '07-信息轮盘测试' '08-设计实施'; do
+            test -f "05-XXX主题信息图形设计/$s/README.md"
+          done
+          test -f '05-XXX主题信息图形设计/04-基础数据集构建/基础数据表模板.csv'
+          test -f '05-XXX主题信息图形设计/04-基础数据集构建/字段字典模板.csv'

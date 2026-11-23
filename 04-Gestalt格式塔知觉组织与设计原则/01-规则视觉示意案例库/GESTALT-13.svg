@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 340" role="img" aria-label="Gestalt 简洁律 Prägnanz 原创静态教学示意">
+<title>Gestalt 简洁律 Prägnanz｜原创教学示意</title>
+<desc>左侧为强调某视觉分组线索的示意，右侧为对照示意。并非真实数据或实验结论，动态规则仅使用静态提示。</desc>
+<rect width="960" height="340" fill="#FFFFFF"/>
+<text x="28" y="40" font-size="26" font-family="Arial, sans-serif" font-weight="700" fill="#18363F">13  简洁律 Prägnanz</text>
+<rect x="65" y="72" width="391" height="220" rx="14" fill="#F5F8F9" stroke="#D8E3E5" stroke-width="2"/>
+<rect x="504" y="72" width="391" height="220" rx="14" fill="#F5F8F9" stroke="#D8E3E5" stroke-width="2"/>
+<circle cx="113" cy="130" r="10" fill="#E29852"/><circle cx="186" cy="227" r="10" fill="#186B77"/><circle cx="259" cy="219" r="10" fill="#186B77"/><circle cx="332" cy="211" r="10" fill="#E29852"/><circle cx="127" cy="203" r="10" fill="#186B77"/><circle cx="200" cy="195" r="10" fill="#186B77"/><circle cx="273" cy="187" r="10" fill="#E29852"/><circle cx="346" cy="179" r="10" fill="#186B77"/><circle cx="141" cy="171" r="10" fill="#186B77"/><circle cx="214" cy="163" r="10" fill="#E29852"/><circle cx="287" cy="155" r="10" fill="#186B77"/><circle cx="360" cy="147" r="10" fill="#186B77"/><circle cx="594" cy="120" r="10" fill="#186B77"/><circle cx="594" cy="178" r="10" fill="#186B77"/><circle cx="594" cy="236" r="10" fill="#186B77"/><circle cx="664" cy="120" r="10" fill="#186B77"/><circle cx="664" cy="178" r="10" fill="#186B77"/><circle cx="664" cy="236" r="10" fill="#186B77"/><circle cx="734" cy="120" r="10" fill="#E29852"/><circle cx="734" cy="178" r="10" fill="#E29852"/><circle cx="734" cy="236" r="10" fill="#E29852"/><circle cx="804" cy="120" r="10" fill="#186B77"/><circle cx="804" cy="178" r="10" fill="#186B77"/><circle cx="804" cy="236" r="10" fill="#186B77"/>
+<text x="260" y="319" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#33515A">强调组织线索</text>
+<text x="700" y="319" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#33515A">弱化或对照</text>
+</svg>
