@@ -66,3 +66,13 @@
 - 清理保留文档中指向已删除目录的失效超链接，保留说明文字和历史案例分析。
 - 由于原 GitHub Actions 依赖被删除的脚本，将其改成核心目录存在性检查；不再声称对完整知识库执行旧脚本式的链接数量校验。
 - 如需查看旧的 03/04 文档，可使用删除前的 Git 历史提交，不影响当前 main 分支的精简结构。
+
+
+## 2026-11-23｜新建03信息可视化风格与RAWGraphs源码研究（v0.7）
+
+- 从原始 [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) 的 master 提交 `48c3b2ee9ff412721a2c99c7bed38e734b3fa534` 读取源码，整理为11篇 Markdown，存入**全新** `03-信息可视化风格与RAWGraphs源码研究/`。
+- 源码核实：32种注册图形、27份样本文件、App五步流程、React/Vite、字段类型/拖拽映射、色阶和自定义选项、SVG/PNG/JPG/.rawgraphs导出、Worker、自定义JS确认机制。
+- 图形机制与个人设计风格分类显式分开；将图形链接到 01 五大数据逻辑和 02 已有 CASE，增加八组精确字段表头实验和六张可复用设计风格卡。
+- 版本边界：源仓库 package.json 为2.1.0，官方网站另宣布线上2.1.1，不混用；外部 charts/core 的每个具体算法仍需独立源代码核验。
+- 安全边界：声明本地处理不意味着无网络请求；源码存在URL/SPARQL数据请求、Google Analytics与外部自定义JavaScript。
+- 没有恢复此前删除的旧03、04、scripts；保留 01 的5篇概念、02 的17类型与35 CASE；更新根README与GitHub目录检查，不新建脚本目录。

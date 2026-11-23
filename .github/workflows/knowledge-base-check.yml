@@ -7,10 +7,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Check retained folders and metadata
+      - name: Check three research folders and key indexes
         run: |
           test -f README.md
           test -f CHANGELOG.md
           test -d '01-信息图形数据逻辑'
           test -d '02-信息图形类型案例'
           test -f '02-信息图形类型案例/00-案例索引.md'
+          test -d '03-信息可视化风格与RAWGraphs源码研究'
+          test -f '03-信息可视化风格与RAWGraphs源码研究/00-研究总览与阅读导航.md'
+          test -f '03-信息可视化风格与RAWGraphs源码研究/03-32种图表的机制与风格图谱.md'
