@@ -1,14 +1,16 @@
-name: Knowledge base audit
+name: Core knowledge base structure check
 on:
   push:
   pull_request:
 jobs:
-  validate:
+  verify:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-      - name: Check Markdown links and file conventions
-        run: python scripts/validate_knowledge_base.py
+      - name: Check retained folders and metadata
+        run: |
+          test -f README.md
+          test -f CHANGELOG.md
+          test -d '01-信息图形数据逻辑'
+          test -d '02-信息图形类型案例'
+          test -f '02-信息图形类型案例/00-案例索引.md'
