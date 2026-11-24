@@ -1,6 +1,6 @@
 # 02｜信息图形类型案例：分类型与逐案归档导航
 
-> 结构与**17类概念口径**均参照 [fengbaifan/Infographic-Style-Repository 的02目录](https://github.com/fengbaifan/Infographic-Style-Repository/tree/main/02-信息图形类型案例)。本库的分类文件夹`00-标签说明.md`现为**规范定义入口**，按“概念→基础逻辑归属→A—E→案例与回写”组织；原有17份顶层类型MD继续保存深入研究、真实案例和历史版本。**17种表现标签不同于01的五种基础逻辑。** 原37个CASE全文不移动、不覆盖、不重编号。
+> 结构与**17类概念口径**均参照 [fengbaifan/Infographic-Style-Repository 的02目录](https://github.com/fengbaifan/Infographic-Style-Repository/tree/main/02-信息图形类型案例)。本库的分类文件夹`00-标签说明.md`现为**规范定义入口**，按“概念→基础逻辑归属→A—E→案例与回写”组织；17份深入研究已放入对应分类的`历史研究.md`；原顶层MD仅作为兼容入口。**17种表现标签不同于01的五种基础逻辑。** 37份CASE正文已迁入各自分类下的`分析.md`，原地址保留跳转，不重编号、不删减历史研究。
 
 ## 17种表现标签、参考标准定义与历史研究
 
