@@ -1,1 +1,11 @@
-event_id,event_name,time_value,date_precision,source_id
+event_id,event_name,time_value,date_precision,source_id,display_order,path_segment,visual_evidence,evidence_status,date_note,verified_date,verified_date_role
+CASE-0036-N01,WW II EFFECT,1941,year,USER-IMAGE-0036,1,直轴左,军车拼贴,E1,图中大字与战时主题相邻，正文中的迁都构想未明确对应到1941。,,
+CASE-0036-N02,PRESIDENT MANUEL L. QUEZON,1938,year,USER-IMAGE-0036,2,直轴右,人物肖像,E1,图上年份与正式设市日期分列，1938具体指向待核。,1939-10-12,正式设市
+CASE-0036-N03,MABUHAY ROTONDA,1948,year,USER-IMAGE-0036,3,直轴左,欢迎地标图像,E1,图面年份具体指建设、揭幕或其他阶段待核。,,
+CASE-0036-N04,QUEZON CITY MEMORIAL CIRCLE,1978,year,USER-IMAGE-0036,4,直轴右,纪念建筑图像,E1,正文涉及规划和纪念委员会，1978具体对应的事件待核。,,
+CASE-0036-N05,UP DILIMAN,1949,year,USER-IMAGE-0036,5,直轴左,校园建筑图像,E1,正文提及迁校，具体迁移阶段及日期待核。,,
+CASE-0036-N06,STO DOMINGO CHURCH,1954,year,USER-IMAGE-0036,6,直轴右,教堂立面图像,E1,正文同时提及1588与后来重建，须区分原址历史与新址事件。,,
+CASE-0036-N07,BARIO PUGAD LAWIN,1911,year,USER-IMAGE-0036,7,直轴左,群像雕塑,E1,保留图面拼写与年份；1911与正文所述历史事件的关系待核。,,
+CASE-0036-N08,ARANETA COLISEUM,1960,year,USER-IMAGE-0036,8,直轴右,场馆图像,E1,正文另述1960至1963年的区间；须区分单年节点与区间。,,
+CASE-0036-N09,BANTAYOG NG MGA BAYANI,1986,year,USER-IMAGE-0036,9,直轴左,纪念雕塑图像,E1,正文介绍纪念对象，1986具体对应的行动待核。,,
+CASE-0036-N10,MELCHORA AQUINO SHRINE,2008,year,USER-IMAGE-0036,10,直轴右,纪念雕塑图像,E1,正文另述2012年与骨灰安置有关；须分别识别两个日期的所指。,,

@@ -1,1 +1,11 @@
-event_id,event_name,time_value,date_precision,source_id
+event_id,event_name,time_value,date_precision,source_id,display_order,path_segment,visual_evidence,evidence_status,date_note,verified_date,verified_date_role
+CASE-0037-N01,JOHN TAYLOR’S,1866,year,USER-IMAGE-0037,1,左侧下行,地图与地点标记,E1,只转录可读大标题；小字与准确事件日期待核。,,
+CASE-0037-N02,HEAD OF BACCHUS,1868,year,USER-IMAGE-0037,2,左侧下行,巴克斯头像,E1,头像与年份在同一节点；年份具体对应的动作待核。,,
+CASE-0037-N03,JAMES CAMPBELL,1873,year,USER-IMAGE-0037,3,左侧下行,酒店建筑,E1,正文提及酒店更名；年代与史实待核。,,
+CASE-0037-N04,FORRES CYCLING CLUB,1879,year,USER-IMAGE-0037,4,左侧下行,建筑前群像,E1,画面并列俱乐部、照片及人物活动，年份具体所指待核。,,
+CASE-0037-N05,ROYAL STATION HOTEL,1899,year,USER-IMAGE-0037,5,左侧下行,酒店建筑,E1,位于折返前；小字与金额不纳入本次转录。,,
+CASE-0037-N06,WEDDING AT THE HOTEL,1921,year,USER-IMAGE-0037,6,右侧上行,婚礼群像,E1,位于折返后；原图小字人名与日月暂不转录。,,
+CASE-0037-N07,THE BEATLES’S STAY AT ROYAL,1960,year,USER-IMAGE-0037,7,右侧上行,乐队合照,E1,标题保留图面措辞；停留细节与日期待核。,,
+CASE-0037-N08,END OF AN ERA,1965,year,USER-IMAGE-0037,8,右侧上行,铁路相关图像,E1,图面正文涉及停运，须区分客运与货运的日期角色。,,
+CASE-0037-N09,NOBLE HOSPITALITY,2016,year,USER-IMAGE-0037,9,右侧上行,圆形档案图像,E1,按主年份和大字标题配对，具体史实待核。,,
+CASE-0037-N10,STUDENT ACCOMM…,2019,year,USER-IMAGE-0037,10,右侧上行,建筑外景,E1,标题尾部被截图界面挡住，省略号标记缺字。,,
