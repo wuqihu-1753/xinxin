@@ -1,0 +1,8 @@
+node_id,label_on_image,node_type,predecessor_id,visual_cue,evidence_status
+J01,BOILING BEANS,工序,,上部大锅内可见豆子与蒸汽,E1
+J02,Shaping Meju,工序,J01,左中手部与成形的豆块,E1
+J03,Drying Meju,工序,J02,右中绳索悬挂的豆块,E1
+J04,JANG MAKING,工序,J03,中部大容器配原料图画,E1
+J05,SEPARATING GANJANG AND DOENJANG,工序,J04,中下部容器与被取出的豆块,E1
+J06,GANJANG,产物,J05,左支底部的深色液体坛,E1
+J07,DOENJANG,产物,J05,右支底部的酱状物坛,E1

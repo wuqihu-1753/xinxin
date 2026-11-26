@@ -1,0 +1,8 @@
+observation_id,label_on_image,observation_type,subject_id,visual_cue,evidence_status
+M00,CELL MEMBRANE,整体对象,,作品顶部的主题标题,E1
+M01,Lipid bilayer,部件标注,M00,中部膜状结构左边的黑色引线与标签,E1
+M02,Protein,部件标注,M00,下部膜状结构左边的分叉引线,E1
+M03,Carbohydrate,部件标注,M00,下部膜状结构右边的青色圆形标注区,E1
+M04,Transmembrane protein channels,部件标注,M00,左下红色圆形标签与膜截面旁的通道图元,E1
+M05,Endocytosis,机制标注,M00,左上红色圆形标签与相邻的膜状构图和文字,E1
+M06,,场景图元,M00,多层立体场景之间可见的白色楼梯,E1
