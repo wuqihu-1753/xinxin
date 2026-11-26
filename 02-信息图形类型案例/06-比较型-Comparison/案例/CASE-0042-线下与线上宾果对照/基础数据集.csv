@@ -1,0 +1,11 @@
+record_id,mode,dimension,statement_zh,evidence
+Q01,Offline,着装,打扮后去宾果场所,E1
+Q02,Online,着装,可以穿睡衣,E1
+Q03,Offline,到达或接入方式,坐公交去宾果场所，有时带伞,E1
+Q04,Online,到达或接入方式,在外使用手机,E1
+Q05,Offline,社交方式,在大厅与其他玩家交流,E1
+Q06,Online,社交方式,在聊天区和主持人与玩家互动,E1
+Q07,Offline,社交范围,遇见住在自己街区的人,E1
+Q08,Online,社交范围,认识西班牙各地的玩家,E1
+Q09,Online,时间便利性,图称可在一周任何一天、任何时间参与,E1
+Q10,两者共同,参与动机,海报结尾称两类玩家都喜欢宾果,E1
