@@ -1,0 +1,7 @@
+edge_id,endpoint_a_id,endpoint_b_id,line_style,evidence
+L01,A02,A01,白色虚线,E1
+L02,A01,A03,白色虚线,E1
+L03,A03,A04,白色虚线,E1
+L04,A04,A05,白色虚线,E1
+L05,A05,A06,白色虚线,E1
+L06,A06,A07,白色虚线,E1

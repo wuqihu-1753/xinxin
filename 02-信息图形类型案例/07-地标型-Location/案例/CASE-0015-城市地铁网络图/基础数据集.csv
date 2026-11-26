@@ -1,1 +1,10 @@
-place_id,latitude,longitude,crs,source_id
+observation_id,graphic_type,label_on_image,display_area,source_id,evidence
+NY01,区域名,BRONX,上部,USER-IMAGE-0015-SUPPLEMENT,E1
+NY02,区域名,MANHATTAN,左侧,USER-IMAGE-0015-SUPPLEMENT,E1
+NY03,区域名,QUEENS,中右,USER-IMAGE-0015-SUPPLEMENT,E1
+NY04,区域名,BROOKLYN,中下,USER-IMAGE-0015-SUPPLEMENT,E1
+NY05,区域名,STATEN ISLAND,左下,USER-IMAGE-0015-SUPPLEMENT,E1
+NY06,图例栏标题,New York City Subway Lines,左下,USER-IMAGE-0015-SUPPLEMENT,E1
+NY07,图例栏标题,Stopping Patterns,右上,USER-IMAGE-0015-SUPPLEMENT,E1
+NY08,图例栏标题,Key,右下,USER-IMAGE-0015-SUPPLEMENT,E1
+NY09,图例栏标题,Restricted Services,右下,USER-IMAGE-0015-SUPPLEMENT,E1
