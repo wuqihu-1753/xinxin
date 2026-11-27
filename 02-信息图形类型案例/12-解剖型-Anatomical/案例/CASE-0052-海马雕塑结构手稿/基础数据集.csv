@@ -1,0 +1,11 @@
+record_id,label_on_image,label_type,display_area,source_id,evidence
+S01,A,字母索引,上部,USER-IMAGE-0052,E1
+S02,B,字母索引,上部,USER-IMAGE-0052,E1
+S03,C,字母索引,上部,USER-IMAGE-0052,E1
+S04,D,字母索引,上部,USER-IMAGE-0052,E1
+S05,E,字母索引,上部,USER-IMAGE-0052,E1
+S06,1,体节编号,尾部编号起段,USER-IMAGE-0052,E1
+S07,10,体节编号,尾部外弧右下侧,USER-IMAGE-0052,E1
+S08,20,体节编号,尾部回卷左侧,USER-IMAGE-0052,E1
+S09,27,体节编号,尾部内圈附近,USER-IMAGE-0052,E1
+S10,BODY SEGMENT SCHEDULE 1-27,体节总表,右侧说明栏,USER-IMAGE-0052,E1

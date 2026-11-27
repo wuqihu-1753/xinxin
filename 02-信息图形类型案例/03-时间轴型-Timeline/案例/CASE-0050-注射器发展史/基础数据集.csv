@@ -1,0 +1,18 @@
+record_id,year_label,record_type,group_year,label_summary,source_id,evidence
+H01,1840,年代标题,,1840年代标题,USER-IMAGE-0050,E1
+E01,1844,事件,1840,图中文字提及 Francis Rynd 与空心针,USER-IMAGE-0050,E1
+H02,1850,年代标题,,1850年代标题,USER-IMAGE-0050,E1
+E02,1853,事件,1850,图中文字提及 Charles Gabriel Pravaz 与金属注射器,USER-IMAGE-0050,E1
+E03,1853,事件,1850,图中文字将 Alexander Wood 与早期皮下注射方法联系,USER-IMAGE-0050,E1
+H03,1860,年代标题,,1860年代标题,USER-IMAGE-0050,E1
+E04,1869,事件,1860,图中文字提及全玻璃注射器,USER-IMAGE-0050,E1
+H04,1900,年代标题,,图中文字描述玻璃注射器逐渐普及,USER-IMAGE-0050,E1
+H05,1950,年代标题,,1950年代标题,USER-IMAGE-0050,E1
+E05,1950,事件,1950,图中文字提及 Arthur E. Smith 的一次性注射器专利,USER-IMAGE-0050,E1
+E06,1954,事件,1950,图中文字提及 Becton Dickinson 量产一次性玻璃注射器,USER-IMAGE-0050,E1
+E07,1955,事件,1950,图中文字提及 Monoject 一次性塑料注射器,USER-IMAGE-0050,E1
+E08,1956,事件,1950,图中文字提及 Colin Murdoch 和一次性塑料注射器,USER-IMAGE-0050,E1
+H06,1960,年代标题,,1960年代标题,USER-IMAGE-0050,E1
+E09,1961,事件,1960,图中文字提及 BD Plastipak,USER-IMAGE-0050,E1
+H07,2000,年代标题,,2000年代标题,USER-IMAGE-0050,E1
+E10,2001,事件,2000,图中文字提及 Marc Koska 与自动失效注射器,USER-IMAGE-0050,E1
