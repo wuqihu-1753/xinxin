@@ -1,1 +1,5 @@
-item_id,item_name,category_id,source_id
+member_id,member_name,text_role,layout_position,source_id,evidence
+M01,John Lennon,成员栏目标题,左上,USER-IMAGE-0034-SUPPLEMENT,E1
+M02,Paul McCartney,成员栏目标题,右上,USER-IMAGE-0034-SUPPLEMENT,E1
+M03,Ringo Starr,成员栏目标题,左下,USER-IMAGE-0034-SUPPLEMENT,E1
+M04,George Harrison,成员栏目标题,右下,USER-IMAGE-0034-SUPPLEMENT,E1
