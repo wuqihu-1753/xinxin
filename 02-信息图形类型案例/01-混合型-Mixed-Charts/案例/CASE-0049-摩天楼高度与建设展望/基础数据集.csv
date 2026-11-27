@@ -1,0 +1,13 @@
+record_id,module,entity,metric,value_on_image,unit,year_on_image,year_role,status,evidence,source_id
+B01,全球高楼剪影,John Hancock Center,最低楼层至顶端的图示高度,457,米,1969,图示建筑年份,版面已列的建筑,E1,USER-IMAGE-0049
+B02,全球高楼剪影,International Commerce Centre,最低楼层至顶端的图示高度,484,米,2010,图示建筑年份,版面已列的建筑,E1,USER-IMAGE-0049
+B03,全球高楼剪影,Shanghai World Financial Center,最低楼层至顶端的图示高度,494,米,2008,图示建筑年份,版面已列的建筑,E1,USER-IMAGE-0049
+B04,全球高楼剪影,Taipei 101,最低楼层至顶端的图示高度,508,米,2004,图示建筑年份,版面已列的建筑,E1,USER-IMAGE-0049
+B05,全球高楼剪影,Willis Tower,最低楼层至顶端的图示高度,527,米,1974,图示建筑年份,版面已列的建筑,E1,USER-IMAGE-0049
+B06,全球高楼剪影,Makkah Royal Clock Tower Hotel,最低楼层至顶端的图示高度,601,米,2012,图示建筑年份,版面已列的建筑,E1,USER-IMAGE-0049
+B07,全球高楼剪影,Burj Khalifa,最低楼层至顶端的图示高度,830,米,2010,图示建筑年份,版面已列的建筑,E1,USER-IMAGE-0049
+B08,全球高楼剪影,Sky City,最低楼层至顶端的图示高度,838,米,2014,版面设想完成年,设计目标，依完工条件,E1,USER-IMAGE-0049
+B09,百格预测,中国,全球前百座摩天楼数量,56,座,2020,预测目标年,预测,E1,USER-IMAGE-0049
+B10,百格预测,其他地区,全球前百座摩天楼数量,44,座,2020,预测目标年,预测,E1,USER-IMAGE-0049
+B11,Sky City用途环图,住宅,图示用途占比,83,%,,,项目图示构成,E1,USER-IMAGE-0049
+B12,Sky City用途环图,酒店、办公、零售,图示用途占比,17,%,,,项目图示构成,E1,USER-IMAGE-0049
