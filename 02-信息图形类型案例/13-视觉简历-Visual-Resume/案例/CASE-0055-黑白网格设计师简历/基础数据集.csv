@@ -1,0 +1,16 @@
+record_id,module,label,record_role,start_on_image,end_on_image,method_step_order,related_id,employment_type,source_id,evidence
+G01,专业方向,Branding,能力标签,,,,,,USER-IMAGE-0055,E1
+G02,专业方向,Packaging,能力标签,,,,,,USER-IMAGE-0055,E1
+G03,专业方向,Wayfinding,能力标签,,,,,,USER-IMAGE-0055,E1
+G04,专业方向,UI/UX,能力标签,,,,,,USER-IMAGE-0055,E1
+G05,设计方法,Discover,方法步骤,,,1,,,USER-IMAGE-0055,E1
+G06,设计方法,Define,方法步骤,,,2,,,USER-IMAGE-0055,E1
+G07,设计方法,Design,方法步骤,,,3,,,USER-IMAGE-0055,E1
+G08,设计方法,Develop,方法步骤,,,4,,,USER-IMAGE-0055,E1
+G09,设计方法,Deliver,方法步骤,,,5,,,USER-IMAGE-0055,E1
+G10,个人定位,图面所述设计起点,自述时间,2016,,,,,USER-IMAGE-0055,E1
+G11,教育,教育履历清单,版面模块,,,,,,USER-IMAGE-0055,E1
+G12,经历,实习履历清单,版面模块,,,,,,USER-IMAGE-0055,E1
+G13,软件,软件工具图标组,版面模块,,,,,,USER-IMAGE-0055,E1
+G14,成果,海报刊载成果说明,成果说明,,,,,,USER-IMAGE-0055,E1
+G15,服务,Branding & Advertising,服务类别,,,,,,USER-IMAGE-0055,E1

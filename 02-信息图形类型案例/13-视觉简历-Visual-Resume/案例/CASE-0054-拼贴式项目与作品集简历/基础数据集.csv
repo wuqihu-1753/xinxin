@@ -1,0 +1,18 @@
+record_id,module,label,record_role,start_on_image,end_on_image,method_step_order,related_id,employment_type,source_id,evidence
+P01,经历,自由职业数字艺术,履历条目,2019,Now,,,,USER-IMAGE-0054,E1
+P02,经历,2023年竞赛,项目条目,2023,,,,,USER-IMAGE-0054,E1
+P03,经历,校园设计项目,项目条目,2022,Now,,,,USER-IMAGE-0054,E1
+P04,教育,平面设计学习经历,履历条目,2022,On going,,,,USER-IMAGE-0054,E1
+P05,证书,同一竞赛的参与证明说明,成果说明,,,,P02,,USER-IMAGE-0054,E1
+P06,证书,项目入选展示说明,成果说明,,,,P02,,USER-IMAGE-0054,E1
+P07,专业方向,Illustration,能力标签,,,,,,USER-IMAGE-0054,E1
+P08,专业方向,Graphic Design,能力标签,,,,,,USER-IMAGE-0054,E1
+P09,专业方向,Branding,能力标签,,,,,,USER-IMAGE-0054,E1
+P10,专业方向,Photography,能力标签,,,,,,USER-IMAGE-0054,E1
+P11,软件,Photoshop,工具图标,,,,,,USER-IMAGE-0054,E1
+P12,软件,Illustrator,工具图标,,,,,,USER-IMAGE-0054,E1
+P13,软件,InDesign,工具图标,,,,,,USER-IMAGE-0054,E1
+P14,软件,Lightroom,工具图标,,,,,,USER-IMAGE-0054,E1
+P15,软件,Figma,工具图标,,,,,,USER-IMAGE-0054,E1
+P16,作品入口,社交平台二维码入口,入口类型,,,,,,USER-IMAGE-0054,E1
+P17,作品入口,作品集平台二维码入口,入口类型,,,,,,USER-IMAGE-0054,E1

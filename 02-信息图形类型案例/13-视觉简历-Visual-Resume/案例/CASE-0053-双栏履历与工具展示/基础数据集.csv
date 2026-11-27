@@ -1,0 +1,18 @@
+record_id,module,label,record_role,start_on_image,end_on_image,method_step_order,related_id,employment_type,source_id,evidence
+R01,工作经历,动效与 UI 设计,履历条目,Sep 2022,Present,,,全职,USER-IMAGE-0053,E1
+R02,工作经历,动效与 UI 设计,履历条目,Jun 2022,Aug 2022,,,全职,USER-IMAGE-0053,E1
+R03,工作经历,动效与 UI 设计,履历条目,Jan 2022,May 2022,,,实习,USER-IMAGE-0053,E1
+R04,教育,多媒体与动画学习经历,履历条目,2019,2022,,,,USER-IMAGE-0053,E1
+R05,教育,中等教育经历,履历条目,2017,2018,,,,USER-IMAGE-0053,E1
+R06,专业方向,Promotional Design,能力标签,,,,,,USER-IMAGE-0053,E1
+R07,专业方向,Editorial Design,能力标签,,,,,,USER-IMAGE-0053,E1
+R08,专业方向,UI Design,能力标签,,,,,,USER-IMAGE-0053,E1
+R09,专业方向,Motion Graphics,能力标签,,,,,,USER-IMAGE-0053,E1
+R10,软件技能,After Effects,工具图标,,,,,,USER-IMAGE-0053,E1
+R11,软件技能,Premiere Pro,工具图标,,,,,,USER-IMAGE-0053,E1
+R12,软件技能,Photoshop,工具图标,,,,,,USER-IMAGE-0053,E1
+R13,软件技能,Illustrator,工具图标,,,,,,USER-IMAGE-0053,E1
+R14,软件技能,Adobe XD,工具图标,,,,,,USER-IMAGE-0053,E1
+R15,软件技能,Figma,工具图标,,,,,,USER-IMAGE-0053,E1
+R16,软件技能,Dimension,工具图标,,,,,,USER-IMAGE-0053,E1
+R17,软件技能,Maya,工具图标,,,,,,USER-IMAGE-0053,E1
