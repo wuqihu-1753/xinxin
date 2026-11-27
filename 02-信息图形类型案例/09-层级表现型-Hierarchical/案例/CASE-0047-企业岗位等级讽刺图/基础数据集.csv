@@ -1,0 +1,8 @@
+item_id,level,label_on_image,label_zh,rank_basis,annotation_summary,source_id,evidence
+R01,1,THE CEO,首席执行官,作品设置的从上到下的岗位与身份顺序,图中把设定愿景与获得功劳并列。,USER-IMAGE-0047,E1
+R02,2,THE EXECUTIVES,高管,作品设置的从上到下的岗位与身份顺序,图中把作决策与由他人落实并列。,USER-IMAGE-0047,E1
+R03,3,THE MANAGERS,经理,作品设置的从上到下的岗位与身份顺序,图中把制定计划与向下传递目标并列。,USER-IMAGE-0047,E1
+R04,4,THE TEAM LEADERS,团队负责人,作品设置的从上到下的岗位与身份顺序,图中强调盯进度、数字并推动团队。,USER-IMAGE-0047,E1
+R05,5,THE EMPLOYEES,员工,作品设置的从上到下的岗位与身份顺序,图中强调完成工作、解决问题及认可不足。,USER-IMAGE-0047,E1
+R06,6,THE INTERNS,实习生,作品设置的从上到下的岗位与身份顺序,图中用学习、咖啡和撑下去描绘实习处境。,USER-IMAGE-0047,E1
+R07,7,THE OUTSOURCED,外包人员,作品设置的从上到下的岗位与身份顺序,图中用同类工作、薪酬差异和时区反差表达讽刺。,USER-IMAGE-0047,E1

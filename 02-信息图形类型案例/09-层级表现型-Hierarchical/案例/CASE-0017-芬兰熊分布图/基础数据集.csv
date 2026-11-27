@@ -1,1 +1,5 @@
-node_id,parent_id,label,depth,source_id
+class_id,class_order,range_on_image,lower_bound,upper_bound,upper_unbounded,unit,color_description,period_on_image,source_id,evidence
+B01,1,"0 - 2,0",0,2.0,false,"只/1,000 km²",青绿色,约2010年前后,USER-IMAGE-0017-SUPPLEMENT,E1
+B02,2,"2,1 - 4,0",2.1,4.0,false,"只/1,000 km²",灰绿色,约2010年前后,USER-IMAGE-0017-SUPPLEMENT,E1
+B03,3,"4,1 - 6,0",4.1,6.0,false,"只/1,000 km²",灰粉色,约2010年前后,USER-IMAGE-0017-SUPPLEMENT,E1
+B04,4,"6,1 - ∞",6.1,,true,"只/1,000 km²",红色,约2010年前后,USER-IMAGE-0017-SUPPLEMENT,E1
