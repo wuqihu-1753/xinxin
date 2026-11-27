@@ -1,0 +1,15 @@
+record_id,module,label,record_role,position_on_image,value_on_image,unit,source_id,evidence
+G01,整体,GI TRACT,标题,顶部,,,3D-02,E1
+G02,器官,Esophagus,器官标签,上部开口,,,3D-02,E1
+G03,器官,Stomach,器官标签,上部左侧开窗,,,3D-02,E1
+G04,辅助器官,Liver,器官标签,上部右侧开窗,,,3D-02,E1
+G05,辅助器官,Pancreas,器官标签,上部右侧开窗,,,3D-02,E1
+G06,局部材料,Bile,文字标签,肝脏开窗内,,,3D-02,E1
+G07,局部材料,Bicarbonate,文字标签,胰腺开窗旁,,,3D-02,E1
+G08,局部材料,Enzymes,文字标签,胰腺开窗旁,,,3D-02,E1
+G09,管道,连续弯曲的管道,示意通路,中下部,,,3D-02,E1
+G10,局部结构,Nerves,结构标签,中部左侧,,,3D-02,E1
+G11,管壁,Muscularis,管壁标签,中部左侧,,,3D-02,E1
+G12,管壁,Submucosa,管壁标签,下部右侧,,,3D-02,E1
+G13,管壁,Mucosa,管壁标签,下部右侧,,,3D-02,E1
+G14,管壁,Serosa,管壁标签,下部右侧,,,3D-02,E1
