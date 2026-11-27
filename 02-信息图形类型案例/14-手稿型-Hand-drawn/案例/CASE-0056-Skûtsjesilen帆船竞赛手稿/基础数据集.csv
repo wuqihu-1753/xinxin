@@ -1,0 +1,17 @@
+record_id,module,label,record_role,position_on_image,value_on_image,source_id,evidence
+S01,标题,Skûtsjesilen,主题标题,顶部,,HAND-01,E1
+S02,标题,versie 1.2,图面版本文字,顶部,,HAND-01,E1
+S03,赛事知识,起航船信号,图例模块,左上,,HAND-01,E1
+S04,赛事知识,参赛船名录,名录模块,左侧,,HAND-01,E1
+S05,参赛船名录,编号范围,名录编号,左侧,1–14,HAND-01,E1
+S06,风向与航向,N,方向字母,中央上方,,HAND-01,E1
+S07,风向与航向,W,方向字母,中央左侧,,HAND-01,E1
+S08,风向与航向,O,方向字母,中央右侧,,HAND-01,E1
+S09,风向与航向,Z,方向字母,中央下方,,HAND-01,E1
+S10,风向与航向,OVERSTAG,动作文字,中央上部,,HAND-01,E1
+S11,风向与航向,GIJPEN,动作文字,中央下部,,HAND-01,E1
+S12,赛道,driehoeksbaan,赛道标签,右上,,HAND-01,E1
+S13,赛道,gatebaan,赛道标签,右上,,HAND-01,E1
+S14,赛道,zandloperbaan,赛道标签,右上,,HAND-01,E1
+S15,船体结构,帆船部件标注,引线定位,右下,,HAND-01,E1
+S16,赛事区域,地点示意小图,地图模块,左下,,HAND-01,E1
