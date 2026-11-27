@@ -1,0 +1,8 @@
+record_id,text_on_image,text_role,position_on_image,relative_size,direction_on_image,color_on_image,source_id,evidence
+01,I am here for you,短句,交握上方黑字区域,中大,近横,黑色,WC-05,E1
+02,I will never leave,可辨短句片段,交握上方黑字区域,中大,近横,黑色,WC-05,E1
+03,Everything will be,可辨短句片段,交握上方黑字区域,中大,近横,黑色,WC-05,E1
+04,I understand you,短句,右上向内黑字区域,中大,斜,黑色,WC-05,E1
+05,左侧文字构成手臂,版面区域,左侧,混合,旋转曲排,红色,WC-05,E1
+06,右侧文字构成手臂,版面区域,右上,混合,旋转曲排,黑色,WC-05,E1
+07,红黑文字相接,版面区域,中央交握处,混合,多向层叠,红黑,WC-05,E1

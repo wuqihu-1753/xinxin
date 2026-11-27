@@ -1,0 +1,13 @@
+record_id,text_on_image,text_role,position_on_image,relative_size,direction_on_image,color_on_image,source_id,evidence
+01,SEASONS,词项,花冠右部,突出,斜,粉紫,WC-02,E1
+02,Hemisphere,词项,花冠下部,突出,斜,粉色,WC-02,E1
+03,DAY,词项,花冠上部,突出,斜,粉紫,WC-02,E1
+04,beginning,词项,花冠中右,显著,斜,深紫,WC-02,E1
+05,EQUINOX,词项,花冠右上,中大,近横,浅紫,WC-02,E1
+06,SUMMER,词项,花冠左部,显著,斜,玫红,WC-02,E1
+07,AUTUMN,词项,花冠下缘,中大,斜,粉色,WC-02,E1
+08,MARCH,词项,花冠左上,中小,斜,紫色,WC-02,E1
+09,WINTER,词项,左下叶状区,显著,斜,粉色,WC-02,E1
+10,FEBRUARY,词项,右下叶状区,显著,斜,粉色,WC-02,E1
+11,SOUTHERN,词项,右下叶状区,中大,斜,粉色,WC-02,E1
+12,CLIMATES,词项,右下叶状区,中大,斜,紫色,WC-02,E1

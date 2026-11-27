@@ -1,0 +1,7 @@
+record_id,text_on_image,text_role,position_on_image,relative_size,direction_on_image,color_on_image,source_id,evidence
+01,Die Invasion der Stare,标题,左上正文入口,小,横向分行,灰黑,WC-04,E1
+02,Die Invasion der Stare,标题,中上正文入口,小,横向分行,灰黑,WC-04,E1
+03,Die Invasion der Stare,标题,右上正文入口,小,横向分行,灰黑,WC-04,E1
+04,Die Invasion der Stare,独立标题,右下留白区,小,横向分行,灰黑,WC-04,E1
+05,文字密集叠印,版面区域,中部,混合,多层重叠,深灰,WC-04,E1
+06,文字逐步疏开,版面区域,左下延伸区,混合,横向分行,灰黑,WC-04,E1

@@ -1,0 +1,8 @@
+record_id,text_on_image,text_role,position_on_image,relative_size,direction_on_image,color_on_image,source_id,evidence
+01,MARKETING,排版实例,前景躯干右侧,突出,竖,黑色,WC-03,E1
+02,MARKETING,排版实例,前景上胸右侧,中大,横,黑色,WC-03,E1
+03,MARKETING,排版实例,前景大腿上部,中大,横,黑色,WC-03,E1
+04,MARKETING,排版实例,前景面部,中小,横,橙色,WC-03,E1
+05,MARKETING,排版实例,前景下方显露的手部,中小,横,橙色,WC-03,E1
+06,MARKETING,排版实例,前景领带区域,中小,竖,蓝色,WC-03,E1
+07,MARKETING,排版实例,上方背景,较大,近横,浅灰,WC-03,E1

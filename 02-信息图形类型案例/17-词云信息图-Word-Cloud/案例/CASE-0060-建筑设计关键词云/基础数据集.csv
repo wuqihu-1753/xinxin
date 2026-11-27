@@ -1,0 +1,14 @@
+record_id,text_on_image,text_role,position_on_image,relative_size,direction_on_image,color_on_image,source_id,evidence
+01,more,词项,中央,最突出,横,深蓝黑,WC-01,E1
+02,read,词项,上方,突出,横,深褐,WC-01,E1
+03,design,词项,下方,突出,横,深蓝黑,WC-01,E1
+04,designboom,词项,左上,中大,横,绿色,WC-01,E1
+05,architecture,词项,上方,中大,横,蓝绿,WC-01,E1
+06,project,词项,右下,中大,横,蓝绿,WC-01,E1
+07,house,词项,右上,中大,横,暗红,WC-01,E1
+08,park,词项,左上,中大,横,蓝绿,WC-01,E1
+09,space,词项,左下,中大,横,绿色,WC-01,E1
+10,create,词项,右下,中大,横,深色,WC-01,E1
+11,into,词项,中央大字字腔内,中小,竖,蓝绿,WC-01,E1
+12,city,词项,中央偏左字腔内,中小,竖,深蓝,WC-01,E1
+13,installation,词项,中央偏右大字字腔内,中小,横,紫色,WC-01,E1
