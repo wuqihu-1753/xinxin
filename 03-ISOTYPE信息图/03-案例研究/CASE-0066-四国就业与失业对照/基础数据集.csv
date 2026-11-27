@@ -1,0 +1,4 @@
+record_id,metric,symbol_scope,symbol_unit,unit,denominator,period,encoding_or_applicability,legend_position,source_id,evidence
+01,行业就业,单枚完整人形,3000000,人,,1971/2010,农业、制造业、服务业栏,就业栏上方局部图例,ISOTYPE-FIG-02,E1
+02,女性劳动力占比,单枚完整女性图符,10,百分点,劳动力总数,1971/2010,女性劳动力占比栏,占比栏上方局部图例,ISOTYPE-FIG-02,E1
+03,失业人数,单枚完整人形,1500000,人,,1971/2010,失业栏,失业栏上方局部图例,ISOTYPE-FIG-02,E1

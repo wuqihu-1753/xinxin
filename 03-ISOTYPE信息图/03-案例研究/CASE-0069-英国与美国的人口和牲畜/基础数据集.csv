@@ -1,0 +1,5 @@
+record_id,metric,symbol_scope,symbol_unit,unit,denominator,period,encoding_or_applicability,legend_position,source_id,evidence
+01,人口,单枚灰色人形,5000000,人,,1935–1939 年平均,灰色人形,图版底部图例,ISOTYPE-FIG-05,E1
+02,牛,单枚完整红色图符,5000000,头,,1935–1939 年平均,红色牛形,图版底部图例,ISOTYPE-FIG-05,E1
+03,猪,单枚完整黑色图符,5000000,头,,1935–1939 年平均,黑色猪形,图版底部图例,ISOTYPE-FIG-05,E1
+04,羊,单枚完整蓝色图符,5000000,只,,1935–1939 年平均,蓝色羊形,图版底部图例,ISOTYPE-FIG-05,E1

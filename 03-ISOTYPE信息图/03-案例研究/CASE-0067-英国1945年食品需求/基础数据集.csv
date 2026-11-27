@@ -1,0 +1,5 @@
+record_id,metric,symbol_scope,symbol_unit,unit,denominator,period,encoding_or_applicability,legend_position,source_id,evidence
+01,食品需求阵列,整行图符,1000000,tons,,1945,各食品类别的满行单位,底部左侧图例,ISOTYPE-FIG-03,E1
+02,国内生产,供应状态符号,,,,1945,绿实心,底部状态图例,ISOTYPE-FIG-03,E1
+03,进口,供应状态符号,,,,1945,蓝实心,底部状态图例,ISOTYPE-FIG-03,E1
+04,缺口,供应状态符号,,,,1945,蓝描边,底部状态图例,ISOTYPE-FIG-03,E1

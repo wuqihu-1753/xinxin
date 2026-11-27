@@ -1,0 +1,4 @@
+record_id,metric,symbol_scope,symbol_unit,unit,denominator,period,encoding_or_applicability,legend_position,source_id,evidence
+01,织物总产量,单枚完整蓝色图符,50000000,磅,,1820/1830/1845/1860/1880,蓝色产量图符,图版下方第一条图例,ISOTYPE-FIG-04,E1
+02,家庭织工,单枚完整黑色人形,10000,人,,1820/1830/1845/1860/1880,黑色人形,图版下方第二条图例,ISOTYPE-FIG-04,E1
+03,工厂织工,单枚完整红色人形,10000,人,,1820/1830/1845/1860/1880,红色人形,图版下方第三条图例,ISOTYPE-FIG-04,E1
